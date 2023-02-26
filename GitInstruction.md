@@ -147,6 +147,6 @@ sudo apt install git
 ---
 При переключении между коммитами обязательно возвращайтесь к самому __актуальному__ коммиту:
 
- #### `git checkout master`
+ #### `git checkout branch_name`
  ---
 
